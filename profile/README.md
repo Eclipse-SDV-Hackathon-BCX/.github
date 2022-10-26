@@ -6,4 +6,7 @@ Go here: link-to-github-pages-website
 # Glossary
 |name|description|link|
 |--------------|-----------|------------|
-|VSS|was ist das|mehr-infos.de|
+| SDV | Software-Defined Vehicle | https://sdv.eclipse.org/ |
+| CVI | Common Vehicle Interface (VSS, VISS, VSC, ...) |  |
+| VSS | Vehicle Signal Specification | https://github.com/COVESA/vehicle_signal_specification |
+
