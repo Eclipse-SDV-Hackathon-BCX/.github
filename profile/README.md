@@ -9,4 +9,6 @@ Go here: link-to-github-pages-website
 | SDV | Software-Defined Vehicle | https://sdv.eclipse.org/ |
 | CVI | Common Vehicle Interface (VSS, VISS, VSC, ...) |  |
 | VSS | Vehicle Signal Specification | https://github.com/COVESA/vehicle_signal_specification |
-
+| Carla | Open-source simulator for autonomous driving research | https://github.com/carla-simulator/carla |
+| OSM | OpenStreetMap - creates and distributes free geographic data | https://wiki.openstreetmap.org/wiki/Main_Page |
+| OSRM | Open-source routing engine for shortest paths in road networks | https://project-osrm.org |
