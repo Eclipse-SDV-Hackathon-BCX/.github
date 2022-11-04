@@ -15,4 +15,4 @@ Go here: link-to-github-pages-website
 
 # Resources
 
-- Information on setting up the [JetRacer Nano](JetRacer.md) for the Hackathon
+- Information on setting up the [JetRacer Nano](profile/JetRacer.md) for the Hackathon
