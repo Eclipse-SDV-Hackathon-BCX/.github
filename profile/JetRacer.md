@@ -30,10 +30,12 @@ curl -sSL https://github.com/fullstorydev/grpcurl/releases/download/v1.8.7/grpcu
 sudo ln /usr/bin/grpcurl.d/grpcurl /usr/bin/grpcurl
 ```
 
-- Make sure that docker is installed
+- Make sure that docker is installed and that the default user is added to the docker group (might require login in back)
 
 ```
 docker --version
+
+sudo usermod -aG docker $USER
 ```
 
 ## Eclipse Chariott
@@ -64,4 +66,21 @@ And then follow the intructions to run the [Key-Value Store Application](https:/
 
 ## Eclipse KUKSA.val
 
-[Eclipse KUKSA.val](https://www.eclipse.org/kuksa/) can be installed as a docker container 
+[Eclipse KUKSA.val server](https://www.eclipse.org/kuksa/) can be installed as a docker container using the following command:
+
+```
+docker run -it --rm -v $HOME/kuksaval.config:/config  -p 127.0.0.1:8090:8090 -e LOG_LEVEL=ALL ghcr.io/eclipse/kuksa.val/kuksa-val:0.2.1-arm64
+```
+
+KUKSA.val server will start and be ready to accept commands using gRPC. To verify it is running, use the following docker command:
+
+```
+docker container list
+```
+The result is a list like this:
+
+``` bash
+CONTAINER ID   IMAGE                                             COMMAND                  CREATED              STATUS          PORTS                      NAMES
+8444a8bdc70a   ghcr.io/eclipse/kuksa.val/kuksa-val:0.2.1-arm64   "/bin/sh -c /kuksa.v…"   About a minute ago   Up 58 seconds   127.0.0.1:8090->8090/tcp   tender_hodgkin
+```
+
