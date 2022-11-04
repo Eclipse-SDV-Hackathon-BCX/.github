@@ -12,6 +12,7 @@ Go here: link-to-github-pages-website
 | Carla | Open-source simulator for autonomous driving research | https://github.com/carla-simulator/carla |
 | OSM | OpenStreetMap - creates and distributes free geographic data | https://wiki.openstreetmap.org/wiki/Main_Page |
 | OSRM | Open-source routing engine for shortest paths in road networks | https://project-osrm.org |
+| ECU | Electronic control unit | https://en.wikipedia.org/wiki/Electronic_control_unit |
 
 # Resources
 
