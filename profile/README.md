@@ -13,6 +13,8 @@ Go here: link-to-github-pages-website
 | OSM | OpenStreetMap - creates and distributes free geographic data | https://wiki.openstreetmap.org/wiki/Main_Page |
 | OSRM | Open-source routing engine for shortest paths in road networks | https://project-osrm.org |
 | ECU | Electronic control unit | https://en.wikipedia.org/wiki/Electronic_control_unit |
+| SOAFEE | Scalable Open Architecture for Embedded Edge | https://soafee.io |
+| EWAOL | A reference implementation of the SOAFEE architecture | https://gitlab.com/soafee/ewaol/meta-ewaol |
 
 # Resources
 
