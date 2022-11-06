@@ -255,7 +255,7 @@ muto:
 ### Start the Base JetRacer Stack from the Eclipse Muto Dashboard
 
 New we can start a JetRacer `Stack` on the car to get access to the `Camera`, control the Car with the `Gamepad` and visualize with `Foxglove Studio`.  
-*  Got to the [`Dashboard` at https:/dashboard.composiv.ai](https:/dashboard.composiv.ai). 
+*  Got to the [`Dashboard` at https:/dashboard.composiv.ai](https://dashboard.composiv.ai). 
 
 <img src="https://github.com/composiv/jetracer_example/blob/main/assets/dashboard.gif?raw=true" height=512>
 
