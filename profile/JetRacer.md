@@ -257,7 +257,7 @@ muto:
 New we can start a JetRacer `Stack` on the car to get access to the `Camera`, control the Car with the `Gamepad` and visualize with `Foxglove Studio`.  
 *  Got to the [`Dashboard` at https:/dashboard.composiv.ai](https:/dashboard.composiv.ai). 
 
-<img src="[assets/dashboard.gif](https://github.com/composiv/jetracer_example/blob/main/assets/dashboard.gif?raw=true)" height=512>
+<img src="https://github.com/composiv/jetracer_example/blob/main/assets/dashboard.gif?raw=true" height=512>
 
 *  After you start the stack. You should see something similar to the following on your console:
 
@@ -274,5 +274,5 @@ New we can start a JetRacer `Stack` on the car to get access to the `Camera`, co
 
 Navigate to foxglove studio webbsite. Click on Open Connection and change the Port ID from 9090 to your own port ID. In this example, we set the websoocket port to 7777, so set the data connection to ws://locahost:7777. Now we we can import the layout. These layouts will display predfined panels suitable for visualization oıf our example:
 
-<img src="[assets/foxglove.png](https://github.com/composiv/jetracer_example/blob/main/assets/foxglove.png?raw=true)" height=512>
+<img src="https://github.com/composiv/jetracer_example/blob/main/assets/foxglove.png?raw=true" height=512>
 
