@@ -3,7 +3,7 @@
 The JetRacer is a robot car using a Jetson Nano DevKit as its compute unit. It is preconfigured with Ubuntu 18.04 LTS and the default software from Waveshare.
 Additional information can be found at the Waveshare wiki site: https://www.waveshare.com/wiki/JetRacer_AI_Kit
 
-The device exposes a JupyterLab Notebook interface. When connecting using the USB port, use your browser to connect to http://192.168.55.1:8888. From the notebook it is possible to test all components. The interface also contains a terminal.
+The device exposes a JupyterLab Notebook interface. When connecting using the USB port, use your browser to connect to http://192.168.55.1:8888. Otherwise, connect it with the Ethernet cable and look at the IP address in the small display on the car. From the notebook it is possible to test all components. The interface also contains a terminal.
 
 # WiFi configuration
 
