@@ -1,7 +1,7 @@
 # Welcome
 Here you find more information about the Hackathon
 
-Go here: link-to-github-pages-website
+Go here: https://github.com/Eclipse-SDV-Hackathon-BCX/hackchallenge-passenger-welcome
 
 # Glossary
 |name|description|link|
