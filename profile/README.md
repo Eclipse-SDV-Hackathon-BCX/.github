@@ -3,6 +3,8 @@ Here you find more information about the Hackathon
 
 Go here: https://eclipse-sdv-hackathon-bcx.github.io/.github/
 
+Timetable to be found here: https://github.com/Eclipse-SDV-Hackathon-BCX/.github/blob/main/resources/printhandler.ashx.pdf
+
 # Glossary
 |name|description|link|
 |--------------|-----------|------------|
