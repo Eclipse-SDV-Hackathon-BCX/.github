@@ -111,9 +111,9 @@ It is very easy to install Muto on the JetRacer:
         [sudo] password for jetson:
 
 * When prompted for password enter `jetson` or your password
-* Sit back and relax while ROS melodic and Muto is being installed and setup. This may take sometime depending on your network speek. Make sure the Jetracer is plugged in.
+* Sit back and relax while ROS melodic and Muto is being installed and setup. This may take sometime depending on your network speed. Make sure the Jetracer is plugged in.
 
-        REDACTED
+        ... LOGS REDACTED for brevity ...
 
         [ 38%] Built target muto_msgs_generate_messages_py
         [ 56%] Built target muto_msgs_generate_messages_nodejs
